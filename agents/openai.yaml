@@ -1,0 +1,4 @@
+interface:
+  display_name: "Media to WAV Batch"
+  short_description: "Batch public media links into WAV files"
+  default_prompt: "Use this skill to process a document of public media links, build a manifest, download and preserve standard-named source files, then convert them to WAV with confirmed audio settings."
